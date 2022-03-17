@@ -3,5 +3,5 @@ Desafio de criação de primeiro repositório no GitHub.
 
 
 
-Foi alguns arquivos/pastas para testar os comandos de git add e push.
+Inclusão de alguns arquivos/pastas para testar os comandos de git add e push.
 
